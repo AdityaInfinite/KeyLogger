@@ -1,3 +1,5 @@
+//Programme needs to be in focus
+
 #include <stdio.h>
 #include <conio.h>
 #include <windows.h>
