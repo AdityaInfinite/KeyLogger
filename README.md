@@ -5,5 +5,5 @@ It is not complete by any means
 It is more of a secret notepad than a keylogger.
 
 ### These issues are because the programme uses `getch()` function.
-### check out [my website](https://adityainfinite.github.io/)
+### Check out [my website](https://adityainfinite.github.io/)
 
